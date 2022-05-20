@@ -37,11 +37,11 @@ Process :
 ![image](statics/train_process.png)
 
 Loss :
-![image](statics/loss.png)
+![image](statics/loss.PNG)
 
 
 Accuracy :
-![image](statics/accuracy.png)
+![image](statics/accuracy.PNG)
 
 3. Performance of the model and the reports as follows:
 

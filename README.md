@@ -40,18 +40,22 @@ Loss :
 ![image](statics/loss.PNG)
 
 
-Accuracy :
-![image](statics/accuracy.PNG)
+MSE :
+![image](statics/mse.PNG)
 
 3. Performance of the model and the reports as follows:
 
-Mean Absolute Percentage Error is recorded at 
-![image](statics/performance.png)
+Mean Absolute Percentage Error is recorded at :
+![image](statics/performance.PNG)
+
+Predicted vs Actual trend is recorded at :
+![image](statics/predicted_vs_actual.png)
 
 4. Reviews
 #  Reviews
 * MAPE recorded at 0.0236%
-* Graph shows low loss, low mse which indicates model is good : good-fit
+* Graph shows low loss, low mse which indicates model is good 
+* The predicted vs Actual trend shows a good-fit
 
 
 ## Credits
